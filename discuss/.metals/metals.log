@@ -1,0 +1,21 @@
+2020.05.14 15:35:34 INFO  started: Metals version 0.9.0 in workspace '/Users/bryanmoy/Library/Mobile Documents/com~apple~CloudDocs/Development/elixir/the-complete-elixir-and-phoenix-bootcamp/discuss'
+2020.05.14 15:35:34 INFO  time: initialize in 0.37s
+2020.05.14 15:35:35 WARN  no build tool detected in workspace '/Users/bryanmoy/Library/Mobile Documents/com~apple~CloudDocs/Development/elixir/the-complete-elixir-and-phoenix-bootcamp/discuss'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.14 15:36:54 INFO  shutting down Metals
+2020.05.18 15:17:40 INFO  started: Metals version 0.9.0 in workspace '/Users/bryanmoy/Library/Mobile Documents/com~apple~CloudDocs/Development/elixir/the-complete-elixir-and-phoenix-bootcamp/discuss'
+2020.05.18 15:17:42 INFO  time: initialize in 1.39s
+2020.05.18 15:17:43 WARN  no build tool detected in workspace '/Users/bryanmoy/Library/Mobile Documents/com~apple~CloudDocs/Development/elixir/the-complete-elixir-and-phoenix-bootcamp/discuss'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+May 21, 2020 11:57:50 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 29, 2020 12:52:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+May 29, 2020 10:00:46 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.06.08 08:48:56 INFO  started: Metals version 0.9.0 in workspace '/Users/bryanmoy/Library/Mobile Documents/com~apple~CloudDocs/Development/elixir/the-complete-elixir-and-phoenix-bootcamp/discuss'
+2020.06.08 08:48:57 INFO  time: initialize in 1.33s
+2020.06.08 08:49:01 WARN  no build tool detected in workspace '/Users/bryanmoy/Library/Mobile Documents/com~apple~CloudDocs/Development/elixir/the-complete-elixir-and-phoenix-bootcamp/discuss'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Jun 11, 2020 10:22:56 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Jun 11, 2020 10:23:02 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.06.14 18:21:40 INFO  shutting down Metals
